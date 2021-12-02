@@ -39,9 +39,9 @@ Built with:
 This project was built as part of Brad Traversy's Udemy course, [Modern JavaScript from the Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/).
 
 ## Contact
-Twitter - [@CBStanley12](https://twitter.com/CBStanley12)
+Twitter - [@Sirbor](https://twitter.com/sirbor)
 
-DEV - [cbstanley12](https://dev.to/cbstanley12)
+DEV - [Sirbor](https://dev.to/sirbor)
 
 ## License
 **MIT License**: 
